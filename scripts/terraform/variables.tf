@@ -4,6 +4,10 @@ variable app_name {
   default = "akshat12092024"
 }
 
+variable group_name {
+  default = "deakinuni"
+}
+
 variable location {
   default = "australiasoutheast"
 }
